@@ -36,7 +36,7 @@ class SunsetView extends React.Component {
       <div className="subscriber-container" id="subscriber-container">
         <div className="row margin-top ">
           <span className="col-md-2">Select Application: </span>
-          <select className="col-md-2" onSelect={this.onApplicationSelect}>
+          <select className="col-md-2" onSelect={this.onApplicationSelect}> 
             <option>select app here</option>
           </select>
         </div>
