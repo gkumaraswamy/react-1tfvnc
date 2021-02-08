@@ -1,0 +1,53 @@
+.subscriber-container {
+  border: 2px solid;
+  margin-top: 10px;
+}
+.margin-top {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.margin-bottom {
+  margin-bottom: 10px;
+}
+.margin-left {
+  margin-left: 10px;
+}
+.broder {
+  border: 1px solid;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.box {
+  margin-left: 10px;
+}
+.appAndQueue {
+  padding-bottom: 10px;
+}
+.content {
+  height: 100%;
+}
+
+.p-broder {
+  padding: 0 0 0 20px;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+.flex-container > input {
+  width: 20px;
+}
+.flex-container > p {
+  margin-left: 20px;
+}
+.button-group-container {
+  margin-top: 10px;
+  display: flex;
+}
+.button-group {
+  margin-left: 10px;
+}
